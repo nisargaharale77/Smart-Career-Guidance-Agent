@@ -1,0 +1,5 @@
+langchain==0.2.x
+crewai==0.35.x
+pydantic==2.x
+google-genai==0.16.x
+# Add any other libraries your script uses

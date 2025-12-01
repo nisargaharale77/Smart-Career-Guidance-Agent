@@ -1,5 +1,12 @@
-langchain==0.2.x
-crewai==0.35.x
-pydantic==2.x
-google-genai==0.16.x
-# Add any other libraries your script uses
+Core Agent Framework
+
+crewai==0.35.6
+pydantic==2.5.3
+
+LLM Integration (Assuming Google GenAI)
+
+google-genai==0.16.0
+
+General Utilities
+
+python-dotenv
